@@ -36,9 +36,9 @@ This is a simple web application that displays a random quote and allows users t
 2. The CSS can be further customized to personalize the look and feel of the application.
 
 ## Snippets
-![qg_ss_1](https://github.com/user-attachments/assets/df1733a9-f404-4c2a-94e7-ea7c7fd669a7)
-![qg_ss_2](https://github.com/user-attachments/assets/15b4fad3-c0b5-4585-8ebb-52ba5d3094b8)
-![qg_ss_3](https://github.com/user-attachments/assets/ef7f8fa3-5fa5-4294-bb6d-4c352fcb1740)
+![qg_ss_1](https://github.com/user-attachments/assets/c7a433e9-8381-4742-ac05-9ca5a48431a9)
+![qg_ss_2](https://github.com/user-attachments/assets/64ef3808-2842-4741-93c3-209c5da3f3e9)
+![qg_ss_3](https://github.com/user-attachments/assets/32e49022-8fe7-4f44-b46a-8db4678fa0aa)
 
 ## Author:
 
