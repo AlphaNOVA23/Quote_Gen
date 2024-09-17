@@ -37,7 +37,9 @@ This is a simple web application that displays a random quote and allows users t
 
 ## Snippets
 ![qg_ss_1](https://github.com/user-attachments/assets/c7a433e9-8381-4742-ac05-9ca5a48431a9)
+
 ![qg_ss_2](https://github.com/user-attachments/assets/64ef3808-2842-4741-93c3-209c5da3f3e9)
+
 ![qg_ss_3](https://github.com/user-attachments/assets/32e49022-8fe7-4f44-b46a-8db4678fa0aa)
 
 ## Author:
