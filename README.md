@@ -35,6 +35,11 @@ This is a simple web application that displays a random quote and allows users t
 1. You can modify the quotes array in quote-generator.js to include your own favorite quotes.
 2. The CSS can be further customized to personalize the look and feel of the application.
 
+## Snippets
+![qg_ss_1](https://github.com/user-attachments/assets/df1733a9-f404-4c2a-94e7-ea7c7fd669a7)
+![qg_ss_2](https://github.com/user-attachments/assets/15b4fad3-c0b5-4585-8ebb-52ba5d3094b8)
+![qg_ss_3](https://github.com/user-attachments/assets/ef7f8fa3-5fa5-4294-bb6d-4c352fcb1740)
+
 ## Author:
 
 Tanmay_Shinde|AlphaNOVA23
